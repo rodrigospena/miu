@@ -1,2 +1,2 @@
 # miu
-Website para vocês amantes de gatos.
+Projeto para um loja online de acessórios para gatos.
